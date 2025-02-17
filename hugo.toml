@@ -1,4 +1,4 @@
-baseURL = "https://medv3.github.io/baerenhoehle/"
+baseURL = "https://rotbaerenhoehle.netlify.app/"
 languageCode = "es-co"
 theme = "poison"
 pagination.pagerSize = 10
