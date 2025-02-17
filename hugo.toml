@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://medv3.github.io/baerenhoehle/"
 languageCode = "es-co"
 theme = "poison"
 pagination.pagerSize = 10
