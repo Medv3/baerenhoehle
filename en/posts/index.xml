@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rotbärenhöhle</title>
+    <link>http://localhost:1313/en/posts/</link>
+    <description>Recent content in Posts on Rotbärenhöhle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Feb 2025 11:03:06 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué es la filosofía?</title>
+      <link>http://localhost:1313/en/posts/001_queeslafil/</link>
+      <pubDate>Sun, 16 Feb 2025 11:03:06 -0500</pubDate>
+      <guid>http://localhost:1313/en/posts/001_queeslafil/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;No se hace nada positivo, pero nada tampoco en el terreno de la crítica ni de la historia, cuando nos limitamos a esgrimir viejos conceptos estereotipados como esqueletos destinados a coartar toda creación, sin ver que los viejos filósofos de quienes los hemos tomado prestados ya hacían lo que se trata de impedir que hagan los modernos: creaban sus conceptos, y no se contentaban con limpiar, roer huesos, como el crítico o el historiador de nuestra época. Hasta la historia de la filosofía carece del todo de interés si no se propone despertar un concepto adormecido, representarlo otra vez sobre un escenario nuevo, aun a costa de volverlo contra sí mismo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
