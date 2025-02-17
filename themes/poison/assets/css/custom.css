@@ -1,0 +1,23 @@
+/* Empty css file that users can override in their own /assets/css/custom.css file */
+/* Custom CSS for adjusting the blog title size */
+
+/* Change the font size of the main blog title */
+h1.site-title {
+  font-size: 2em; /* Adjust this size to your liking */
+}
+
+/* Additional customization for other elements can go here */
+
+/* Example: Adjusting font size for post titles */
+h2.post-title {
+  font-size: 1.5em; /* Adjust as needed */
+}
+
+/* Example: Adjusting font size for sidebar title */
+.sidebar-about h1 {
+  font-size: 1.45em;
+}
+
+/* Feel free to add more customizations below */
+
+
