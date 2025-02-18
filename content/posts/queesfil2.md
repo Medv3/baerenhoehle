@@ -6,9 +6,9 @@ title = '¿Qué es la filosofía? (2/4)'
 
 ---
 
-> Todos los hombres desean por naturaleza saber
+> _Todos los hombres desean por naturaleza saber_
 >
-> Aristóteles
+> Aristóteles, _Metafísica_
 
 ---
 
@@ -16,8 +16,11 @@ title = '¿Qué es la filosofía? (2/4)'
 
 ### 2.1 Die Herkunft des Ursprungs: historia de la filosofía y territorialización
 
+---
 
+**Pronto estará disponible**
 
+---
 
 
 ## Referencias
